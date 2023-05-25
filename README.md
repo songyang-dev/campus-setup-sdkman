@@ -1,8 +1,8 @@
 # Computer Setup: Java with sdkman
-This repository contains the necessary tools and libraries to install [sdkman](https://sdkman.io/) on a college's campus Windows computers, without admin privilege! Tested at [Vanier College](https://www.vaniercollege.qc.ca/).
+This repository contains the necessary tools and libraries to install [sdkman](https://sdkman.io/) on a college campus Windows computer, without admin privilege! Tested at [Vanier College](https://www.vaniercollege.qc.ca/).
 
 ## Software requirements
-To use this repo, you still need to install Git Bash.
+To use this repo, you still need to install Git Bash in advance.
 
 ## Quick start
 1. Clone this repository.
